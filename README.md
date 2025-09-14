@@ -18,7 +18,7 @@ I have a strong foundation in **web development**, **data analysis**, and **agil
 Here are some of the technologies that power my projects:
 
 * **Languages:** `C` | `C++` | `Python` | `HTML/CSS` | `JavaScript`
-* **ML & Data Science:** `Scikit-learn` | `PyTorch` | `Pandas` | `Matplotlib` | `Jupyter Notebook` | `Random Forest` | `Decision Tree`
+* **ML & Data Science:** `Scikit-learn` | `PyTorch` | `Pandas` | `Matplotlib` | `Jupyter Notebook`
 * **Web & Tools:** `Flask` | `Git` | `GitHub` | `Docker` | `Docker Hub` | `Jira` | `Arduino` | `JavaFX`
 
 ---
