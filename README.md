@@ -1,5 +1,4 @@
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/YOUR-GITHUB-ID-HERE?v=4" width="150" height="150" style="border-radius: 50%;">
     <h1>Hi there, I'm Srihitha Chayanam! ✨</h1>
     <p>Welcome to my little corner of the internet! So glad you're here. 😊</p>
 </div>
